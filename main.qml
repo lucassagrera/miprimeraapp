@@ -9,7 +9,7 @@ import QtQuick.Controls 2.0
 
 ApplicationWindow{
 visible:true
-width: 300
-height: 500
-color: "red"
+width: 500
+height: 700
+color: "blue"
 }
